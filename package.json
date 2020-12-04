@@ -1,0 +1,14 @@
+{
+  "name": "project.json",
+  "version": "1.0.0",
+  "description": "Project JSON",
+  "main": "index.js",
+  "repository": "https://github.com/erickfroseth/tableau-wdc-tutorial-part-1.1",
+  "author": "Erick Froseth",
+  "license": "EAF",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
